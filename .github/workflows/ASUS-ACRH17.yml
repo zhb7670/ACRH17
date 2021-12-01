@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: ASUS-ACRH17
+name: ASUS_ACRH17_OP
 
 on:
   repository_dispatch:
