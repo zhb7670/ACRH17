@@ -6451,7 +6451,7 @@ CONFIG_RPCBIND_RMTCALLS=y
 # CONFIG_PACKAGE_samba36-client is not set
 # CONFIG_PACKAGE_samba36-net is not set
 # CONFIG_PACKAGE_samba36-server is not set
-# CONFIG_PACKAGE_SAMBA_MAX_DEBUG_LEVEL is not set
+CONFIG_PACKAGE_SAMBA_MAX_DEBUG_LEVEL=y
 # CONFIG_PACKAGE_samba4-admin is not set
 # CONFIG_PACKAGE_samba4-client is not set
 # CONFIG_PACKAGE_samba4-libs is not set
